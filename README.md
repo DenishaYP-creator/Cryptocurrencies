@@ -1,13 +1,13 @@
 # Cryptocurrencies
  
 ### Code File: 
-crypto_clustering.ipynb file.
+CRYTO_CLUSTERING.ipynb.ipynb file.
 
 ## Background
 Unsupervised learning is a machine learnign model that finds patterns in unstructured data sources such as images.It is typically used when there is no known output which is the case in the cryptocurrency dataset utlized in this project. 
 
 ## Purpose:
-The purpose of this porject is to create an analysis report that will help clients seeeking to enter the cryptocurrency marke. The analysis report includes the types of cryptocurrencies that are in the trading market and how they could be clustered to create a classification system for new investment.Utlizing Python Pandas, and scikit-learn we processed data to fit the machine learning model by means of clustering, reducing dimensions, reducing the principal components. We also utlized hvplot to visualize the results. 
+This project aims to create an analysis report that will help clients seeking to enter the cryptocurrency market. The analysis report includes the types of cryptocurrencies in the trading market and how they could be clustered to create a classification system for new investment. Utilizing Python Pandas and sci-kit-learn, we processed data to fit the machine learning model through clustering, reducing dimensions, and reducing the principal components. We also used hvplot to visualize the results. 
 
 This Repo includes the following technical analysis deliverables.
 
